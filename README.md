@@ -11,7 +11,7 @@ California Housing Dataset (sklearn built-in / Kaggle)
 - XGBoost
 - Matplotlib, Seaborn
 
-## ⚙️ How It Works
+## How It Works
 1. Load and explore the dataset (EDA)
 2. Visualize feature correlations with heatmap
 3. Apply log transformation on skewed features
@@ -19,9 +19,6 @@ California Housing Dataset (sklearn built-in / Kaggle)
 5. Evaluate with R² score, MAE, RMSE
 6. Cross-validate for reliability
 
-## 📊 Results
+## Results
 - XGBoost R² Score: ~0.83
 - Key predictors: median income, location (lat/long), house age
-
-## 🚀 Run It
-Open `house_price_prediction.ipynb` in Google Colab and run all cells.
